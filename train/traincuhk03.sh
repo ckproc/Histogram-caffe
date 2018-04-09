@@ -1,0 +1,1 @@
+./build/tools/caffe train -solver models/cuhk03/solver.prototxt
